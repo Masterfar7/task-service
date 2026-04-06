@@ -142,5 +142,3 @@ curl http://localhost:8080/api/v1/tasks
 
 Используйте Swagger UI для интерактивного тестирования API: http://localhost:8080/swagger/
 
-
-MIT
